@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
 
 @media screen and (max-width: 1400px) {
   #header .container {
-    background-color: rgba(30, 30, 30, 0.9);
+    background-color: rgba(0, 20, 55, 0.4);
     padding: 20px;
     padding-bottom: 20px;
   }
